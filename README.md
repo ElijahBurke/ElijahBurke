@@ -1,6 +1,6 @@
 ### Elijah Burke - Full Stack Developer
 
-Good afternoon! I'm a Full Stack Developer from London who's passionate about clean code and all things JavaScript. I fell in love with coding as it was all the things I loved about maths when i was a kid - in particular the challenge that arises from meeting problems and the intrricacies of solving them. I love designing beautiful things on the front end but also love designing back end architectures.
+Good afternoon! I'm a Full Stack Developer from London who's passionate about clean code and all things JavaScript. I fell in love with coding as it was all the things I loved about maths when i was a kid - in particular the challenge that arises from meeting problems and the intricacies of solving them. I love designing beautiful things on the front end but also love thorough architecting on the back end.
 
 Outside of coding I love anything that gets my heart beating a bit faster - MMA, Skiing, Yoga and just about anything else. Other than that, I'm an avid reader and traveller.
 

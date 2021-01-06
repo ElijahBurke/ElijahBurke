@@ -6,9 +6,10 @@ Outside of coding I love anything that gets my heart beating a bit faster - MMA,
 
 <img align="right" alt="illustration of web developer with laptop" src="https://codegym.cc/assets/images/site/homepage/InfoSectionCodingLight.svg" width="580" height="340" />
 
-## Find me on:
+## Find me at:
 
 #### [Linked In](https://www.linkedin.com/in/elijahburke/)
+#### [My Portfolio](https://elijahburke-portfolio.netlify.app/)
 
 ### My Languages and tools
 

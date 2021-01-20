@@ -9,7 +9,7 @@ Outside of coding I love anything that gets my heart beating a bit faster - MMA,
 ## Where To Find Me:
 
 #### [Linked In](https://www.linkedin.com/in/elijahburke/)
-#### [My Portfolio](elijah-burke.tech/)
+#### [My Portfolio](https://www.elijah-burke.tech/)
 
 ### My Languages and tools
 
